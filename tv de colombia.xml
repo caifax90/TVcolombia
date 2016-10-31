@@ -1,11 +1,18 @@
-
-	
-	<item>
-<title>canal caracol</title>
-<link>http://latino-webtv.com/embed/canales.php?ch=caracolhd&name=caracol&sd=si</urlsolve>
-<thumbnail>http://i58.tinypic.com/2z8xp3s.jpg</thumbnail>
-<fanart>http://seriesenhdonline.com/wp-content/uploads/2016/07/9722683.png</fanart>
-<year></year>
+<item>
+<title>CANAL CARACOL</title>
+<link>http://208.75.225.28:1935/live/chdmovil/chunklist.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-14Av8RCB1Bk/VfLeVI1qIyI/AAAAAAAAHRc/UJgAdDkq_wA/s1600/caracol-hd-bolivia.png</thumbnail>
+<fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
 <info></info>
 </item>
+ 
+ 
+<item>
+<title>CANAL RCN</title>
+<link>http://stream.ssh101.com:1935/live/rhd1col/chunklist.m3u8</link>
+<thumbnail>http://www.canalrcn.com/exclusivas/sites/default/files/rcntelevisionlogo_0.jpg</thumbnail>
+<fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
+<info></info>
+</item>
+
 
