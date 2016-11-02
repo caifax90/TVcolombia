@@ -24,6 +24,7 @@
 <expres>channel='(.*?)'</expres>
 <page>http://vuelaverde.com/canales/caracol.html</page>
 <referer>http://www.janjuaplayer.com</referer>
+  <thumbnail>http://i.imgur.com/IoY2j.png</thumbnail>
 </item>
  
  
@@ -48,6 +49,7 @@
 <expres>channel='(.*?)'</expres>
 <page>http://vuelaverde.com/canales/rcn.html</page>
 <referer>http://www.janjuaplayer.com</referer>
+<thumbnail>http://i.calameoassets.com/130201201158-194f82a4e42d21b893429354bc0d4cfc/large.jpg</thumbnail>
 </item>
  
  
