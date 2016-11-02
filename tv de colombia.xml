@@ -2,18 +2,10 @@
 
 
 
- 
-<item>
-<title>CANAL RCN</title>
-<link>http://stream.ssh101.com:1935/live/rhd1col/chunklist.m3u8</link>
-<thumbnail>http://www.canalrcn.com/exclusivas/sites/default/files/rcntelevisionlogo_0.jpg</thumbnail>
-<fanart>http://s13.postimg.org/5vl0nq9pz/logocaifaxtv.png</fanart>
-<info></info>
-</item>
 
 
 <item>
-<title>Caracol</title> 
+<title>CARACOL</title> 
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -31,6 +23,30 @@
 <name>canal</name>
 <expres>channel='(.*?)'</expres>
 <page>http://vuelaverde.com/canales/caracol.html</page>
+<referer>http://www.janjuaplayer.com</referer>
+</item>
+ 
+ 
+ 
+ <item>
+<title>RCN</title> 
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/680/380</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://vuelaverde.com/canales/rcn.html</page>
 <referer>http://www.janjuaplayer.com</referer>
 </item>
  
