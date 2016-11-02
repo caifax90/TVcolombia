@@ -29,28 +29,12 @@
  
  
  
- <item>
-<title>RCN</title> 
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.janjuapublisher.com:1935/loadbalancer?58743</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ae \+ "(.*?)"</expres>
-<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/680/380</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.janjuaplayer.com</referer>
-</regex>
-<regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://vuelaverde.com/canales/rcn.html</page>
-<referer>http://www.janjuaplayer.com</referer>
-<thumbnail>http://i.calameoassets.com/130201201158-194f82a4e42d21b893429354bc0d4cfc/large.jpg</thumbnail>
-</item>
+<item>
+	<title>RCN</title>
+	<link>http://latino-webtv.ml:8880/rcnhd/playlist.m3u8</link>
+    <thumbnail>http://i.calameoassets.com/130201201158-194f82a4e42d21b893429354bc0d4cfc/large.jpg</thumbnail>
+    </item>
+ 
  
  
  
