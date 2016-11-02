@@ -35,7 +35,7 @@
 <regex>
 <name>ip</name>
 <expres>redirect=(.*)</expres>
-<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+<page>http://www.janjuapublisher.com:1935/loadbalancer?58743</page>
 </regex>
 <regex>
 <name>m3u8</name>
