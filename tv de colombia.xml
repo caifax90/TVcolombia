@@ -38,7 +38,7 @@
 </regex>
 <regex>
 <name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
+<expres>eax \+ "(.*?)"</expres>
 <page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/680/380</page>
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 <referer>http://www.janjuaplayer.com</referer>
