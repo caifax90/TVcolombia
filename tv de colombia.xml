@@ -61,3 +61,76 @@
     <thumbnail>https://www.movistar.co/documents/10184/1173792/winsports_Logo.png</thumbnail>
     </item>
  
+  <item>
+	<title>TELEMUNDO</title>
+	<link>http://stream.ssh101.com:1935/live/anahix2/chunklist.m3u8</link>
+    <thumbnail>http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png</thumbnail>
+    </item>
+	
+	 <item>
+	<title>MI MUSICA HD</title>
+	<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8</link>
+    <thumbnail>http://img.new.livestream.com/events/00000000001877c7/3b925174-21e2-4abe-8622-6847ebefa65e_48889.jpg</thumbnail>
+    </item>
+	
+	<item>
+	<title>TIGO MUSIC</title>
+	<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8</link>
+    <thumbnail>http://industriamusical.es/wp-content/uploads/2014/09/Tigo-Music.png</thumbnail>
+    </item>
+	
+	<item>
+	<title>CANTINAZO</title>
+	<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CTV_LOGO.png/245px-CTV_LOGO.png</thumbnail>
+    </item>
+	
+	<item>
+	<title>CANAL 1</title>
+	<link>http://cdns840stu1010.shooowit.net/…/smil:live…/IPTVCol.m3u8</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Canal_Uno_(Colombia_-_2014).svg/245px-Canal_Uno_(Colombia_-_2014).svg.png</thumbnail>
+    </item>
+	
+	<item>
+	<title>TELEMEDELLIN</title>
+	<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?</link>
+    <thumbnail>http://www.ajuc.org/imagenes/original/364752logo.png</thumbnail>
+    </item>
+	
+	<item>
+	<title>TELECAFE</title>
+	<link>http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8</link>
+    <thumbnail>https://i.ytimg.com/vi/uT-bh2VoXNU/maxresdefault.jpg</thumbnail>
+    </item>
+	
+	<item>
+	<title>TELEPACIFICO</title>
+	<link>http://video.ideasmedia.com.co/live-ideasmedia/smil:envivo.smil/chunklist_w1038615567_b896000_slspa.m3u8</link>
+    <thumbnail>http://www.telepacifico.com/wp-content/uploads/2016/04/LogoCuad-500-txtColor.png</thumbnail>
+    </item>
+	
+	<item>
+	<title>CABLE NOTICIAS</title>
+	<link>http://cnmedia.eastus2.cloudapp.azure.com:1935/live/smil:cablenoticiastv.smil/chunklist_w563684391_b464000_slEN.m3u8</link>
+    <thumbnail>http://www.olympusat.com/sites/default/files/cablenot_logos_HR.png</thumbnail>
+    </item>
+	
+	<item>
+	<title>NOTICIAS EL TIEMPO</title>
+	<link>http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8</link>
+    <thumbnail>http://i.imgur.com/pspKjw1.jpg</thumbnail>
+    </item>
+	
+	<item>
+	<title>CALI TV</title>
+	<link>http://video.cehis.net/live-calitv/calitv1/playlist.m3u8</link>
+    <thumbnail>http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV2.png</thumbnail>
+    </item>
+	
+	<item>
+	<title></title>
+	<link></link>
+    <thumbnail></thumbnail>
+    </item>
+	
+	
